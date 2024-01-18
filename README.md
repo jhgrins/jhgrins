@@ -11,11 +11,11 @@
 ```javascript
 const josette = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, Java, Go],
+  code: [Go, Typescript, HTML, CSS, Python, Java],
   tools: [React, Node, Styled-Components, Docker],
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd be happy to meet you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new folks</b> so if you want to say <b>hi, I'd be happy to meet you!</b> :)</em>
 
 ---
